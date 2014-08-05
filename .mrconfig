@@ -1,0 +1,4 @@
+[DEFAULT]
+git_gc = git gc "$@"
+
+include = cat ~/.config/mr/config.d/*
