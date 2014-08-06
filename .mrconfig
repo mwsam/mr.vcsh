@@ -1,4 +1,4 @@
 [DEFAULT]
 git_gc = git gc "$@"
 
-include = cat ~/.config/mr/config.d/*
+include = cat ~/.config/mr/config.d/* 2>/dev/null || true
