@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/vim.git]
+checkout = vcsh clone https://github.com/mwsam/vim.vcsh.git vim
+fixups = cd ~/.vim; mr -j3 -t update
