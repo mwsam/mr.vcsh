@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/openbox.git]
+checkout = vcsh clone https://github.com/mwsam/openbox.vcsh.git openbox
