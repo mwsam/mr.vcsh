@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/feh.git]
+checkout = vcsh clone https://github.com/mwsam/feh.vcsh.git feh
