@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/tmux.git]
+checkout = vcsh clone https://github.com/mwsam/tmux.vcsh.git tmux
+post_checkout = git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
