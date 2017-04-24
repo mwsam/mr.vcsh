@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/bash.git]
+checkout = vcsh clone https://github.com/mwsam/bash.vcsh.git bash

@@ -1,0 +1,5 @@
+[$HOME/.config/vcsh/repo.d/liquidprompt.git]
+checkout = vcsh clone https://github.com/mwsam/liquidprompt.vcsh.git liquidprompt
+
+[$HOME/.liquidprompt]
+checkout = git clone https://github.com/nojhan/liquidprompt.git ~/.liquidprompt
