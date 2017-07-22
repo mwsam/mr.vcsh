@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/psql.git]
+checkout = vcsh clone https://github.com/mwsam/psql.vcsh.git psql
