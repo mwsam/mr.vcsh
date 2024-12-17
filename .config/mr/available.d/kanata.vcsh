@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/kanata.git]
+checkout = vcsh clone https://github.com/mwsam/kanata.vcsh.git kanata

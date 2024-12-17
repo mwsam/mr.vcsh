@@ -1,2 +1,0 @@
-[$HOME/.config/vcsh/repo.d/jshint.git]
-checkout = vcsh clone https://github.com/mwsam/jshint.vcsh.git jshint
